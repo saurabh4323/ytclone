@@ -1,0 +1,136 @@
+.thumbnail {
+  width: 353px;
+  object-position: top;
+  border-width: 2px;
+  border-radius: 6px;
+}
+
+.video-title {
+  width: 300px;
+  font-size: 15px;
+  font-weight: 550;
+  line-height: 20px;
+  margin-left: 20px;
+ 
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-family: Roboto,Arial;
+  
+}
+.video-preview {
+  background-color: red;
+  width: 170px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 145px;
+  margin-left: 70px;
+  margin-top: 85px;
+  height: 200px;
+}
+
+.channel {
+  font-size: 14px;
+  
+  font-family: Roboto, Arial, sans-serif;
+  margin-left: 20px;
+  margin-top: 4px;
+  margin-bottom: 5px !important; /* Add !important to override conflicting styles */
+}
+
+/* Set the link color to black */
+.video-preview a {
+  color: black;
+  text-decoration: none;
+}
+.time{
+  margin-top: 5px;
+  font-size: 14px;
+  font-family: Roboto, Arial, sans-serif;
+  width: 170px;
+  margin-left: 20px;
+}
+.video-info{
+ display: inline-block;
+ width: 150px;
+}
+.channel-pic{
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 15px;
+  vertical-align: top;
+  border-radius: 5px;
+
+}
+.pic{
+  width: 30px;
+  margin-bottom: px;
+  border-radius: 50px;
+}
+.thumbnail {
+  width: 353px;
+  object-position: top;
+  border-width: 2px;
+  border-radius: 6px;
+}
+
+.video-title {
+  width: 300px;
+  font-size: 15px;
+  font-weight: 550;
+  line-height: 20px;
+  margin-left: 20px;
+ 
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-family: Roboto,Arial;
+  
+}
+.video-preview {
+  background-color: red;
+  width: 170px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 145px;
+  margin-left: 70px;
+  margin-top: 85px;
+  height: 200px;
+}
+
+.channel {
+  font-size: 14px;
+  
+  font-family: Roboto, Arial, sans-serif;
+  margin-left: 20px;
+  margin-top: 4px;
+  margin-bottom: 5px !important; /* Add !important to override conflicting styles */
+}
+
+/* Set the link color to black */
+.video-preview a {
+  color: black;
+  text-decoration: none;
+}
+.time{
+  margin-top: 5px;
+  font-size: 14px;
+  font-family: Roboto, Arial, sans-serif;
+  width: 170px;
+  margin-left: 20px;
+}
+.video-info{
+ display: inline-block;
+ width: 150px;
+}
+.channel-pic{
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 15px;
+  vertical-align: top;
+  border-radius: 5px;
+
+}
+.pic{
+  width: 30px;
+  margin-bottom: px;
+  border-radius: 50px;
+}

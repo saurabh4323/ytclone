@@ -1,0 +1,130 @@
+.header{
+  height: 68px;
+  width: 1210px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  position: fixed  ;
+  margin-bottom: 70px;
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 10px;
+  
+}
+.left-section{
+ 
+  display: flex;
+  align-items: center;
+ 
+  width: 150px;
+  
+
+}
+.microscope{
+ height: 30px;
+ margin-top: 3px;
+ width: 40px;
+ border: none;
+
+ 
+}
+.mic{
+  width: 24px;
+  height: 24px;
+}
+.logo{
+  height: 20px;
+  margin-left: 35px;
+}
+.hamb{
+  margin-left: 10px;
+  height: 24px;
+}
+
+
+.middle-section{
+  
+  margin-bottom:19px;
+  
+  flex-shrink: 0;
+  margin-left: 180px;
+  margin-right: 45px;
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  flex-direction: row;
+}
+.bolo{
+  margin-left: 10px;
+  margin-top: 10px;
+ border-radius: 50px;
+ border: none;
+ size: 10px;
+ height: 40px;
+}
+.mico{
+  margin-top: 10px;
+  height: 40px;
+  border-radius: 35px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border-width: 1px;
+
+
+
+
+}
+.chan{
+  width: 30px;
+  height:30px;
+  border-radius: 50px;
+  margin-right: 10px;
+ 
+
+}
+
+
+.apps{
+  width: 24px;
+  height: 24px;
+
+}
+.noti{
+  width: 24px;
+  height: 24px;
+
+}
+.uplo{
+  width: 24px;
+  height: 24px;
+  margin-left: 100px;
+  
+
+}
+.right-section{
+
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.searchbox::placeholder {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.searchbox {
+  font-size: 20px;
+  flex: 1;
+  border-color: gray;
+  border-width: 1px;
+  width: 450px;
+  
+  margin-top: 10px;
+  border-radius: 35px;
+  border-top-right-radius: 0px ;
+  border-bottom-right-radius:0px ;
+  
+  height: 37px;
+  
+}
