@@ -1,14 +1,15 @@
 .header{
-  height: 68px;
+  height: 60px;
   width: 1210px;
   flex-direction: row;
   display: flex;
   justify-content: space-between;
-  position: fixed  ;
-  margin-bottom: 70px;
-  background-color: white;
-  margin-top: 0px;
-  margin-left: 10px;
+ position: fixed;
+  overflow: hidden;
+
+  background-color: #fff;
+  
+  margin-left: 20px;
   
 }
 .left-section{
